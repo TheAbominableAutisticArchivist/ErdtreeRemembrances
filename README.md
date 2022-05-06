@@ -10,4 +10,4 @@ In the subsequent folders (only "The Royals" at present) and in the "Equipment S
 The archive is currently work-in-progress and will be updated erratically. Feel free to create your own archives and your own organization of screenshots using my work. I also welcome any information on missing screenshots, including missing items and missing dialogue (I'm well aware I'm missing many NPC kill/death quotes). Any screenshots you are able to share would also be greatly appreciated.
 
 **Disclaimer**<br>
-The archivest is a codelet. The history of commits will look stupid.
+The archivist is a codelet. The history of commits will look stupid.
