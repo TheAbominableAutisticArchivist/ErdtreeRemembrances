@@ -1,4 +1,4 @@
-# Remembrances of the Elden Ring<br>
+# Erdtree Remembrances<br>
 This archive is one autist's attempt to become all-knowing, and to share that knowledge in as neutral a way possible. To the best of my ability, I have consolidated un-modded screenshots of items, NPC dialogue, and context clues to help Elden Ring players understand the lore, and form their own views based on the available evidence.
 
 Github is not the best way to view images, and I highly recommend downloading the archive and viewing the screenshots using image viewer software (I used Windows Photo Viewer). 
